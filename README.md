@@ -1,9 +1,6 @@
 # gedeon_python_unikin_2024
 master
 
-# Nom de votre projet
-
-Description de votre projet.
 
 ## Prérequis
 

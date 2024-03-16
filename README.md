@@ -15,17 +15,23 @@ Avant de pouvoir exécuter le programme, assurez-vous d'avoir les éléments sui
 ## Installation
 
 1. Clonez ce dépôt sur votre machine :
-[Google](https://github.com/gedeon-muhenge/gedeon_python_unikin_2024.git)
+[gedeon_python_unikin_2024](https://github.com/gedeon-muhenge/gedeon_python_unikin_2024.git)
 
 2. Accédez au répertoire du projet :
-> cd gedeon_python_unikin_2024
+```python
+cd gedeon_python_unikin_2024
+```
 
 3. Créez un environnement virtuel pour isoler les dépendances :
->python -m venv env
+```python
+python -m venv env
+```
 
 4. Activez l'environnement virtuel :
 - Sur Windows :
-> env\Scripts\activate
+```python
+env\Scripts\activate
+```
 
 - Sur Linux/macOS :
 > source env/bin/activate
